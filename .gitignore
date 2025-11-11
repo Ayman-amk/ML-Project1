@@ -22,3 +22,8 @@ notebooks/.ipynb_checkpoints/
 
 # OS
 Thumbs.db
+
+# ZenML / MLflow / local DB
+.zen/
+mlruns/
+mlflow.db
